@@ -11,6 +11,7 @@ The project combines Quest firmware research, root access, A/B slot manipulation
 > **Status: Released**
 >
 > **90 HZ Possible. Check the Discord below**
+> **104 HZ Is also possible but its in beta, also check discord.**
 
 QuestStack is currently available as a desktop application for Windows, Linux, and macOS.
 
