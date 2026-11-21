@@ -68,7 +68,7 @@ After installing the firmware, boot the headset normally and make sure ADB / USB
 8. Press **Start**.
 9. Read the warning before continuing.
 10. Keep the headset connected until QuestStack finishes.
-11. ![If you see this the unlock worked.](Screenshot_2026-11-21_114310.png)
+11. ![If you see this the unlock worked.](bootloaderunlocked.png)
 The full process will factory reset the headset.
 
 QuestStack handles the rest of the process automatically.
